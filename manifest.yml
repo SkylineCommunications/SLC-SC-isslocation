@@ -1,0 +1,15 @@
+type: 'connector'
+
+id: '41cc11c3-a7fa-4948-8fa9-49515d95b827'
+
+title: 'ISS location'
+
+short_description: 'Example connector that fetches the ISS current position.'
+
+source_code_url: ''
+
+owners:
+  - name: 'Brecht Seys'
+    email: 'brecht.seys@skyline.be'
+tags:
+  - 'example'
